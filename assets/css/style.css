@@ -1,0 +1,107 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1{
+	background-color: #4aaaa5;
+	color: white;
+	width: 325px;
+	padding: 20px;
+	float: left;
+}
+.topbox{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px; 
+}
+
+.nav{
+	color: #777777;
+	text-decoration: none;
+	width: 210px;
+	margin-top: 40px;
+	float: right;
+}
+
+a{
+	color: #777777;
+	text-decoration: none;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+p{
+	margin: 10px;
+}
+
+.backgroundbox{
+	clear: both;
+	overflow: auto;
+	background-image: url("css/swirl_panel.png")
+}
+
+#marginbox{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#bigbox{
+	margin: 20px;
+	background-color: white;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 650px;
+	float: left;
+}
+h2{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+	border-bottom: 3px solid #777777;
+}
+
+#picture{
+	margin-right: 10px;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+h3{
+	padding-bottom: 10px;
+	border-bottom: 3px solid #777777;
+}
+#connect{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;	
+	background-color: white;
+	color: #777777;
+	width: 200px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+
+}
+
+
+#foot{
+	background-color: #666666;
+	clear: both;
+	overflow: auto;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+.pic{
+	height: 50px;
+	width: 50px;
+
+}
